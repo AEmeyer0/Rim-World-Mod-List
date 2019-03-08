@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <buildNumber>2059</buildNumber>
+  <activeMods>
+    <li>BetterLoading</li>
+    <li>Core</li>
+    <li>HugsLib</li>
+    <li>JecsTools-1.1.0.15</li>
+    <li>AdvancedAnimalFramework</li>
+    <li>AnimalsLogic</li>
+    <li>AnimalTab</li>
+    <li>WhatTheHack-1.1.8</li>
+    <li>Combat Extended</li>
+    <li>CombatExtendedGuns</li>
+    <li>CombatExtendedShields-master</li>
+    <li>ExpandedProsthetics&amp;OrganEngineering</li>
+    <li>A_Dog_Said_1.0</li>
+    <li>AlphaAnimals-1.095</li>
+    <li>Megafauna_v1.4_RW1.0</li>
+    <li>Megafauna (CE compatibility patch)</li>
+    <li>GiddyUpCore-1.1.4</li>
+    <li>GiddyUpCaravan-1.1.1</li>
+    <li>GiddyUpRideAndRoll-1.1.1</li>
+    <li>battlemounts-1.1.2</li>
+    <li>GiddyUpMechanoids-1.1.1</li>
+    <li>AllowTool</li>
+    <li>Additional Joy Objects</li>
+    <li>Blueprints</li>
+    <li>BoomMod</li>
+    <li>BricksDontVanish-1.0-1.0.2</li>
+    <li>ChangeDresser</li>
+    <li>ChangeMirror</li>
+    <li>Children and Pregnancy</li>
+    <li>DissectionMod-1.2.0</li>
+    <li>DefensiveMachineGunTurretPack</li>
+    <li>DontShaveYourHead-1.0.0</li>
+    <li>ConfigurableMaps</li>
+    <li>EdBPrepareCarefully</li>
+    <li>Electric Stonecutting Table</li>
+    <li>ExtendedInspectData-1.2.2.4</li>
+    <li>FactionControl</li>
+    <li>FloorLights-1.0</li>
+    <li>FoodAlert</li>
+    <li>Hospitality-1.0.12</li>
+    <li>HandAndFootwear</li>
+    <li>InGameDefEditor</li>
+    <li>MarvsSometimesRaidsGoWrong</li>
+    <li>MedicalTab</li>
+    <li>Miniaturisation-1.0.0</li>
+    <li>MiningCo. MiningHelmet</li>
+    <li>MoreFactionInteraction</li>
+    <li>MoreHarvestDesignators-1.0</li>
+    <li>PickUpAndHaul</li>
+    <li>Questionable Ethics</li>
+    <li>Recipe icons</li>
+    <li>RemoteDoors</li>
+    <li>RemoteTech</li>
+    <li>ResearchPal</li>
+    <li>RF - Realistic Planets</li>
+    <li>RF - Rational Romance</li>
+    <li>RF - Fertile Fields</li>
+    <li>RF - Concrete</li>
+    <li>Rimatomics-1.6.716</li>
+    <li>Rimefeller-1.2.341</li>
+    <li>RimFridge</li>
+    <li>Rimkit-1.4.763</li>
+    <li>RimQuest-master</li>
+    <li>RimWorld-MendAndRecycle-master</li>
+    <li>RunAndGun-1.1.3</li>
+    <li>SimpleSidearms</li>
+    <li>SkilledStonecutting</li>
+    <li>SmartMedicine - Release</li>
+    <li>StuffedFloors</li>
+    <li>SYR_SetUpCamp</li>
+    <li>SYR_DoorMats</li>
+    <li>SYR_CoffeeAndTea</li>
+    <li>T-MoreFloors</li>
+    <li>Vegetable Garden</li>
+    <li>VGP_Canning</li>
+    <li>VGP_Garden_Drinks</li>
+    <li>VGP_Medicine</li>
+    <li>VGP_Tools</li>
+    <li>VGP_Trees_Flowers</li>
+    <li>ExpandedWoodworking</li>
+    <li>ExpandedWoodworkingVGP</li>
+    <li>MiningCo. DrillTurret</li>
+    <li>RF - Tribal Raiders</li>
+    <li>RF - Rumor Has It</li>
+    <li>RF - Rim Disorders</li>
+    <li>RF - Pawns are Capable!</li>
+    <li>RF - Etched Stone Walls</li>
+    <li>RF - Editable Backstories</li>
+    <li>RF - Advanced Bridges</li>
+    <li>TradingEconomy V3.1</li>
+    <li>Faction Manager</li>
+    <li>Faction Manager - Setup Camp</li>
+    <li>Extended Trade Beacon</li>
+    <li>Enhanced Battery</li>
+    <li>Dubs-Mint-Menus-1.0.219</li>
+    <li>Dubs-Mint-Minimap-1.0.8</li>
+    <li>DamageIndicators-master</li>
+    <li>CompareTool</li>
+    <li>Cargo Pod Transport[1.0]</li>
+    <li>Carbon</li>
+    <li>MarvsPleaseHaulPerishables</li>
+    <li>Miscellaneous_Core</li>
+    <li>Miscellaneous_Robots</li>
+    <li>Miscellaneous_TrainingFacility</li>
+    <li>[v1.0] JernfalkStandaloneHorses</li>
+    <li>[v1.0] JernfalkStandaloneHorses-A Dog Said Patch</li>
+    <li>WildAnimalSex 3.2</li>
+    <li>VariousSpaceShipChunks</li>
+    <li>TradingSpot</li>
+    <li>SYR_MetallicBatteries</li>
+    <li>SYR_HarvestYieldPatch</li>
+    <li>SYR_ProstheticIcons</li>
+    <li>RT_Fuse-1.0-1.2.1</li>
+    <li>RT_PowerSwitch-1.0-1.0.13</li>
+    <li>BiggerBatteries</li>
+    <li>BiggerFuses</li>
+    <li>RoofSupport 1.0</li>
+    <li>GeneticRim-4.201</li>
+    <li>Genetic-Rim-CE-Patch-master</li>
+    <li>GeneticRimAlphaAnimalsPatch-1.0</li>
+    <li>GeneticRimMegafaunaPatch-1.1</li>
+    <li>Skylights-1.4.651</li>
+    <li>TechAdvancing</li>
+    <li>WorkTab</li>
+    <li>HelpTab</li>
+    <li>FluffyBreakdowns</li>
+    <li>GrenadeFixRearmed-master</li>
+    <li>MarvsCombatReadinessCheck</li>
+    <li>rimworld-pathavoid-master</li>
+    <li>RimHUD</li>
+    <li>Rainbeau Planet - Trading Economy Compatibility Patch</li>
+    <li>Roads of the Rim</li>
+    <li>StatueOfColonist_1_0</li>
+    <li>Stackable Chunks</li>
+    <li>Spotted</li>
+    <li>Rimfire 2.5</li>
+    <li>RedistHeat</li>
+    <li>Quarry-1.01</li>
+    <li>QC_Quantum_Cooling</li>
+    <li>NoJobAuthors</li>
+    <li>Graphic Chair Overhaul</li>
+    <li>FollowMe</li>
+    <li>HeatMap</li>
+    <li>LDAreaRugs B18</li>
+    <li>MoreTraitSlots</li>
+    <li>P-Music</li>
+    <li>RF - Packed Lunches</li>
+    <li>RimMagic</li>
+    <li>Rimworld-Shields</li>
+    <li>Rimworld-Shields-CE</li>
+    <li>RimWorld_WhileYoureUp-master</li>
+    <li>RimWriter-master</li>
+    <li>static_quality_plus_1.1</li>
+    <li>MiningCo. MMS</li>
+    <li>RimSearch</li>
+    <li>Inspiration</li>
+    <li>RimworldMapReroll-master</li>
+    <li>StorageTweaks</li>
+    <li>Turn It On and Off v1.3 [1.0]</li>
+    <li>RF - Wild Cultivation</li>
+    <li>DocWalledVitals-BaseRelease</li>
+    <li>DontStopTheMusic</li>
+    <li>PersistentFloatMenus-master</li>
+    <li>RF - Rainbeau Flambe - Storyteller</li>
+    <li>ParallelPowerGrid</li>
+    <li>Robots_PlusPlus_Misc_Robots_Xtension</li>
+    <li>ConsolidatedTraits</li>
+    <li>BetterPawnControl-1.9.9</li>
+  </activeMods>
+</ModsConfigData>
